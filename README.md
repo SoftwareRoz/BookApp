@@ -45,11 +45,12 @@ Kitapseverlerin:
 
 - **Rozerin Zor**
 - 📧 [rozerinzor2@gmail.com]
-![okudugum](https://github.com/user-attachments/assets/2389a47c-7d06-4b30-8e12-d9d2564423e9)
-![kitap detay](https://github.com/user-attachments/assets/0742dd52-9a8b-4142-be3d-faa817323459)
-![favoriler](https://github.com/user-attachments/assets/16da9d30-dbea-406b-8a90-f4c66074c574)
+- ![bookanasayfa](https://github.com/user-attachments/assets/8a8fb00e-d957-4aef-9df2-2c3530c8e088)
 ![bookapp](https://github.com/user-attachments/assets/319c14f0-4326-49cb-b84a-81ad3165904a)
-![bookanasayfa](https://github.com/user-attachments/assets/8a8fb00e-d957-4aef-9df2-2c3530c8e088)
+![kitap detay](https://github.com/user-attachments/assets/0742dd52-9a8b-4142-be3d-faa817323459)
+
+![okudugum](https://github.com/user-attachments/assets/2389a47c-7d06-4b30-8e12-d9d2564423e9)
+![favoriler](https://github.com/user-attachments/assets/16da9d30-dbea-406b-8a90-f4c66074c574)
 
 ---
 
